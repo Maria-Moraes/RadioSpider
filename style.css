@@ -1,0 +1,54 @@
+.base {
+    background-image: url("material/imagem/spider\ m.jpg");
+    background-color: black;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    margin-top: 500px;
+}
+
+h1 {
+    color: #e71e1e;
+    text-align: center;
+    text-decoration: none;
+    font-size: 150px;
+    font-family: "BioRhyme", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+
+
+
+}
+
+h2 {
+    color: #e71e1e;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 2px solid #e71e1e;
+    padding-bottom: 5px;
+
+
+}
+
+img {
+    width: 100px;
+}
+
+.alinhamento {
+    display: block;
+    margin-left: 500px;
+}
+
+.ordem {
+    display: flex;
+}
+
+.foto {
+    display: inline-block;
+    margin-left: 150px;
+    color: #f0d7d7;
+}
